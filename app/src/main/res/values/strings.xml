@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyAppCal</string>
+    <string name="textoPrincipal">Cálculo de Areas</string>
+    <string name="ladoUno">lado Uno</string>
+    <string name="hintUno">Ingrese el valor lado 1</string>
+    <string name="ladoDos">lado Dos</string>
+    <string name="hintDos">Ingrese el valor lado 2</string>
+    <string name="ladotres">lado Tres</string>
+    <string name="hinttres">Ingrese el valor lado 3</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="resultado">resultado:</string>
+    <string name="calcular">Calcular Area</string>
+</resources>
